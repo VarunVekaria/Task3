@@ -1,0 +1,15 @@
+body{
+  padding: 50px 50px 50px 25px;
+  font-family: Poppins;
+  background-color: #F6EFD6;
+}
+.card{
+  background-color: #ECF5F1;
+}
+.cc1{
+background-color: #FF2049;
+padding:50px 250px;
+}
+#input{
+  padding: 10px;
+}
